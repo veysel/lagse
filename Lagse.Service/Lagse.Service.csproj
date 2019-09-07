@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lagse.Core\Lagse.Core.csproj" />
+    <ProjectReference Include="..\Lagse.Data\Lagse.Data.csproj" />
+  </ItemGroup>
+
+</Project>
